@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EventRecommender:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="EventRecommender.war">
+      <element id="artifact" artifact-name="EventRecommender:war exploded" />
+    </root>
+  </artifact>
+</component>
