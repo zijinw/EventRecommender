@@ -37,5 +37,5 @@ public class MongoDBTableCreation {
 
         mongoClient.close();
         System.out.println("Import is done successfully.");
-    }   
+    }
 }

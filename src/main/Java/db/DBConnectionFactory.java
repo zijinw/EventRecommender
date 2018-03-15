@@ -7,7 +7,7 @@ import db.mysql.MySQLConnection;
  * Created by Zijin Wang on 10/12/2017.
  */
 public class DBConnectionFactory {
-    private static final String DEFAULT_DB = "mongodb";
+    private static final String DEFAULT_DB = "mysql";
 
     // Create a DBConnection based on given db type.
     public static DBConnection getDBConnection(String db) {
